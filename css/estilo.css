@@ -1,0 +1,12 @@
+body {
+  background-color: burlywood;
+}
+
+h2 {
+  color: brown;
+}
+
+table, tr, th {
+  background-color: blueviolet;
+  color: white;
+}
